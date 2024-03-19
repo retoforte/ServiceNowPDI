@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1347914_my_khr_0.admin" name="x_1347914_my_khr_0.admin">f19fe42d97450210b5f074400153afe3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 16:49:17</sys_created_on>
+        <sys_id>029fe42d97450210b5f074400153afe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f19fe42d97450210b5f074400153afe3</sys_name>
+        <sys_package display_value="My Khristian App" source="x_1347914_my_khr_0">719fe42d97450210b5f074400153afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Khristian App">719fe42d97450210b5f074400153afdd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_029fe42d97450210b5f074400153afe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-19 16:49:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
